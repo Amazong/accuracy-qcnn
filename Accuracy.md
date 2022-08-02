@@ -7,4 +7,5 @@
 | Inception-v3 |         [78](https://arxiv.org/abs/1605.07678)         |      [76.4‡](https://github.com/Xilinx/graffitist)     |         —        |
 
 † Employs ternary data representation for both weight and activation values.
+
 ‡ Employs 4-bit weights and 8-bit activations. The weights of the first and last layers are 8-bit values.
